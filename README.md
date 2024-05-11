@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Albert Contreras
 ### <strong>I am Software Developer</strong>
 "👨‍💻 Crafting solutions with code | Tech enthusiast | Innovating daily 🚀"
+![I am Software Developer](https://media.licdn.com/dms/image/D4D16AQGi4cCndmbLHQ/profile-displaybackgroundimage-shrink_350_1400/0/1715430108925?e=1720656000&v=beta&t=mbHoYR7F0AJbV5gQg859kssZ4iSAj3mHbDN7aaCfn5o)
 
 ### Skills:
 ## Languages
