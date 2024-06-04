@@ -58,4 +58,4 @@
 ### Social Networks:
 [<img src='https://img.icons8.com/color/48/000000/whatsapp.png' alt='WhatsApp' height='40'>](https://wa.me/633357225) 
 [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='LinkedIn' height='40'>](https://linkedin.com/in/albert-contreras-g)
-[<img src='https://img.icons8.com/fluent/48/000000/domain.png' alt='Personal Website' height='40'>](https://albertcontreras98.github.io)
+
