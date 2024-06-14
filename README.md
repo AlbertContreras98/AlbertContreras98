@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <h3>Libraries & Frameworks</h3>
+      <h3>Frameworks</h3>
       <p>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/ASP.NET%20Core-%239E559A.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
