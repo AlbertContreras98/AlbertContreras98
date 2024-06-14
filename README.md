@@ -13,15 +13,12 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/c%23-%239E559A.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"><br>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </p>
     </td>
     <td>
       <h3>Libraries & Frameworks</h3>
       <p>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"><br>
-        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
         <img src="https://img.shields.io/badge/ASP.NET%20Core-%239E559A.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
       </p>
     </td>
